@@ -10,6 +10,15 @@ Bem-vindo ao ControleFácil, a sua ferramenta para simplificar e transformar sua
 2. Programador Auxiliar
 - Thiago Lacerda
 
+<hr>
+<div style="display: inline_block">
+  <h3>🚀 Github Linguagens</h3>
+  <img align="center" alt="Magnus-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Magnus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Magnus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+<hr>
+
 ## Sobre o ControleFácil
 
 O ControleFácil é um serviço inovador projetado para ajudar você a organizar suas finanças de maneira rápida e eficaz. Com apenas 5 minutos e 5 perguntas simples, você pode criar um plano personalizado para alcançar estabilidade financeira.
