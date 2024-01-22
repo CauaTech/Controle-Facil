@@ -1,3 +1,5 @@
+# ![WebApp](https://i.imgur.com/2YtrFBd.png)
+
 # ControleFácil
 
 Bem-vindo ao ControleFácil, a sua ferramenta para simplificar e transformar sua jornada financeira!
@@ -51,5 +53,3 @@ Dúvidas ou sugestões? Entre em contato conosco em [contato@controlefacil.com](
 ---
 
 **Transforme sua vida financeira. ControleFácil - Porque cada centavo conta.**
-
-# ![WebApp](https://i.imgur.com/2YtrFBd.png)
